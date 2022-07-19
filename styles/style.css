@@ -21,9 +21,11 @@ i {
 
 .fa-magnifying-glass {
   font-size: 25px;
+  cursor: pointer;
 }
 .fa-cart-flatbed {
   font-size: 25px;
+  cursor: pointer;
 }
 /* -----Header-section----- */
 .header-section {
@@ -264,4 +266,8 @@ h4 {
   font-size: 32px;
   width: 16px;
   color: gray;
+  cursor: pointer;
+}
+.icoan: :hover {
+  background-color: rgba(224, 44, 109, 0.87);
 }
