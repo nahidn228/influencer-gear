@@ -9,11 +9,10 @@ body {
 }
 .header-title {
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
   padding-left: 120px;
   padding-right: 120px;
-  margin: auto;
 }
 .menu-bar a,
 i {
@@ -86,7 +85,7 @@ h1 {
 .popular {
   margin-top: 100px;
 }
-.header-title {
+.header-title-popular {
   display: flex;
   justify-content: center;
   font-weight: 600;
