@@ -193,7 +193,7 @@ h1 {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   justify-items: center;
-  margin-top: 100px;
+  margin-top: 50px;
   padding: 50px 120px;
 }
 .featured-products img {
@@ -238,4 +238,30 @@ h4 {
   font-size: 16px;
   padding-left: 1.5em;
   margin-top: 20px;
+}
+
+/* -------------------------------------
+      Footer
+   ------------------------------------- */
+
+.footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #0a0826;
+  margin-top: 50px;
+}
+.main {
+  color: #ffffff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.title {
+  font-weight: 700;
+  font-size: 24px;
+}
+.icoan {
+  font-size: 32px;
+  width: 16px;
+  color: gray;
 }
